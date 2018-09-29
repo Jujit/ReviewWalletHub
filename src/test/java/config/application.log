@@ -1,0 +1,148 @@
+[29/09/2018 16:48:06]  Executing the test : verifyReviewWalletHub
+[29/09/2018 16:48:06]  Executing test case : Navigate to WalletHub page
+[29/09/2018 16:48:06]  Navigating to the test site - WalletHub ...
+[29/09/2018 16:48:18]  Navigated to the test site - WalletHub
+[29/09/2018 16:48:18]  Click on Login button
+[29/09/2018 16:48:18]  Waiting for web element to load on the page
+[29/09/2018 16:48:19]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:19]  Clicking on : 'Login' button on Wallet login page
+[29/09/2018 16:48:19]  Waiting for web element to load on the page
+[29/09/2018 16:48:19]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:20]  Clicked on : 'Login' button on Wallet login page
+[29/09/2018 16:48:20]  Clicked on the element : ''Login' button on Wallet login page and new page loaded with title : Login
+[29/09/2018 16:48:20]  Logging in to the test site - WalletHub
+[29/09/2018 16:48:21]  Successfully Retrieved data from Xls File :-  Username : jujitsaikia@gmail.com and Password : Password@1
+[29/09/2018 16:48:21]  Verifying whether Element : 'Email Address' button on WalletHub login page is present
+[29/09/2018 16:48:21]  Waiting for web element to load on the page
+[29/09/2018 16:48:22]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:22]  Element : 'Email Address' button on WalletHub login page is present
+[29/09/2018 16:48:22]  Verifying whether Element : 'Password' button on WalletHub login page is present
+[29/09/2018 16:48:22]  Waiting for web element to load on the page
+[29/09/2018 16:48:22]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:22]  Element : 'Password' button on WalletHub login page is present
+[29/09/2018 16:48:22]  Verifying whether Element : 'LogIn' Button is present
+[29/09/2018 16:48:22]  Waiting for web element to load on the page
+[29/09/2018 16:48:23]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:23]  Element : 'LogIn' Button is present
+[29/09/2018 16:48:23]  Clearing field : 'Email Address' button on WalletHub login page
+[29/09/2018 16:48:23]  Waiting for web element to load on the page
+[29/09/2018 16:48:23]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:23]  Cleared : 'Email Address' button on WalletHub login page
+[29/09/2018 16:48:23]  Sending Values in : 'Email Address' button on WalletHub login page
+[29/09/2018 16:48:23]  Waiting for web element to load on the page
+[29/09/2018 16:48:23]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:23]  Inputted 'jujitsaikia@gmail.com' text into : 'Email Address' button on WalletHub login page
+[29/09/2018 16:48:23]  Clearing field : 'Password' button on WalletHub login page
+[29/09/2018 16:48:23]  Waiting for web element to load on the page
+[29/09/2018 16:48:23]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:23]  Cleared : 'Password' button on WalletHub login page
+[29/09/2018 16:48:23]  Sending Values in : 'Password' button on WalletHub login page
+[29/09/2018 16:48:23]  Waiting for web element to load on the page
+[29/09/2018 16:48:24]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:24]  Inputted 'Password@1' text into : 'Password' button on WalletHub login page
+[29/09/2018 16:48:24]  Clicking on : 'LogIn' Button
+[29/09/2018 16:48:24]  Waiting for web element to load on the page
+[29/09/2018 16:48:24]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:24]  Clicked on : 'LogIn' Button
+[29/09/2018 16:48:24]  Clicked on the element : ''LogIn' Button and new page loaded with title : Login
+[29/09/2018 16:48:24]  Successfully logged in to the test site - WalletHub
+[29/09/2018 16:48:24]  Clicking on 5 stars in network page
+[29/09/2018 16:48:24]  Waiting for web element to load on the page
+[29/09/2018 16:48:37]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:38]  Clicking on : 'Close' Footer
+[29/09/2018 16:48:38]  Waiting for web element to load on the page
+[29/09/2018 16:48:38]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:38]  Clicked on : 'Close' Footer
+[29/09/2018 16:48:38]  Clicked on the element : ''Close' Footer and new page loaded with title : Test Insurance Company Reviews: 1,396 User Ratings
+[29/09/2018 16:48:46]  Selecting Health from Policy drop-down ...
+[29/09/2018 16:48:46]  Waiting for web element to load on the page
+[29/09/2018 16:48:46]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:46]  Clicking on : 'Policy' Drop Down
+[29/09/2018 16:48:46]  Waiting for web element to load on the page
+[29/09/2018 16:48:46]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:46]  Clicked on : 'Policy' Drop Down
+[29/09/2018 16:48:47]  Clicked on the element : ''Policy' Drop Down and new page loaded with title : Reviews | Write Review
+[29/09/2018 16:48:47]  Waiting for web element to load on the page
+[29/09/2018 16:48:47]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:47]  Clicking on : 'Health' Option
+[29/09/2018 16:48:47]  Waiting for web element to load on the page
+[29/09/2018 16:48:47]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:47]  Clicked on : 'Health' Option
+[29/09/2018 16:48:47]  Clicked on the element : ''Health' Option and new page loaded with title : Reviews | Write Review
+[29/09/2018 16:48:48]  Clicking on : 'Five Star' On Health Page
+[29/09/2018 16:48:48]  Waiting for web element to load on the page
+[29/09/2018 16:48:48]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:48]  Error while clicking on - ''Five Star' On Health Page' : unknown error: Element <a href="#" class="bf-icon-star-empty star bstar bf-icon-star" onmouseover="try{gRatingsHover(this)}catch(e){}" onmouseout="try{gRatingsBlur(this)}catch(e){}" onclick="try{gRatingsClick(this)}catch(e){};return false" style="background-color: yellow; outline: 1px solid rgb(136, 255, 136);">...</a> is not clickable at point (772, 351). Other element would receive the click: <div class="rating disable">...</div>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 77 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'mindfire-PC', ip: '192.168.225.28', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:56010}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\mindfire\AppData\Local\Temp\scoped_dir12820_22588}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9103056e3071eefcf9338a8e6edc7435
+[29/09/2018 16:48:48]  Clicked on the element : ''Five Star' On Health Page and new page loaded with title : Reviews | Write Review
+[29/09/2018 16:48:48]  Successfully clicked on 5 stars
+[29/09/2018 16:48:48]  verifying the Facebook home page 
+[29/09/2018 16:48:48]  Waiting for web element to load on the page
+[29/09/2018 16:48:48]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:48]  Clicking on : 'Write Review' On Review Box
+[29/09/2018 16:48:48]  Waiting for web element to load on the page
+[29/09/2018 16:48:48]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:48]  Clicked on : 'Write Review' On Review Box
+[29/09/2018 16:48:48]  Clicked on the element : ''Write Review' On Review Box and new page loaded with title : Reviews | Write Review
+[29/09/2018 16:48:48]  Waiting for web element to load on the page
+[29/09/2018 16:48:49]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:49]  Clearing field : 'Write Review' On Review Box
+[29/09/2018 16:48:49]  Waiting for web element to load on the page
+[29/09/2018 16:48:49]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:49]  Cleared : 'Write Review' On Review Box
+[29/09/2018 16:48:49]  Sending Values in : 'Write Review' On Review Box
+[29/09/2018 16:48:50]  Inputted 'Hi, I'm an Automation Engineer and this is review I'm writing using automation script. Isn't it amazing  because I don't have to put any effort by myself and my script is so powerful that it is doing the work for me. ' text into : ''Write Review' On Review Box'
+[29/09/2018 16:48:50]  Clicking on : 'Submit' Button
+[29/09/2018 16:48:50]  Waiting for web element to load on the page
+[29/09/2018 16:48:50]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:54]  Clicked on : 'Submit' Button
+[29/09/2018 16:48:54]  Clicked on the element : ''Submit' Button and new page loaded with title : Wallet Hub
+[29/09/2018 16:48:54]  Verifying review
+[29/09/2018 16:48:54]  Verifying whether Element : 'Awesome! Your Test Insurance Company review has been posted.' message is present
+[29/09/2018 16:48:54]  Waiting for web element to load on the page
+[29/09/2018 16:48:54]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:54]  Element : 'Awesome! Your Test Insurance Company review has been posted.' message is present
+[29/09/2018 16:48:54]  Verifying review on user profile
+[29/09/2018 16:48:54]  Waiting for web element to load on the page
+[29/09/2018 16:48:55]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:55]  Clicking on : 'Profile' Button
+[29/09/2018 16:48:55]  Waiting for web element to load on the page
+[29/09/2018 16:48:55]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:56]  Clicked on : 'Profile' Button
+[29/09/2018 16:48:57]  Clicked on the element : ''Profile' Button and new page loaded with title : Jujit Saikia (@jujitsaikia) on Wallet Hub
+[29/09/2018 16:48:57]  Verifying whether Element : 'Feedback' added is present
+[29/09/2018 16:48:57]  Waiting for web element to load on the page
+[29/09/2018 16:48:57]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:57]  Element : 'Feedback' added is present
+[29/09/2018 16:48:57]  Verifying review review page of user
+[29/09/2018 16:48:57]  Waiting for web element to load on the page
+[29/09/2018 16:48:57]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:57]  Clicking on : 'Review' Button
+[29/09/2018 16:48:57]  Waiting for web element to load on the page
+[29/09/2018 16:48:57]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:57]  Clicked on : 'Review' Button
+[29/09/2018 16:48:57]  Clicked on the element : ''Review' Button and new page loaded with title : Jujit Saikia (@jujitsaikia) on Wallet Hub
+[29/09/2018 16:48:57]  Verifying whether Element : 'Review' Verified is present
+[29/09/2018 16:48:57]  Waiting for web element to load on the page
+[29/09/2018 16:48:57]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:58]  Element : 'Review' Verified is present
+[29/09/2018 16:48:58]  Logging out of the test site - WalletHub
+[29/09/2018 16:48:58]  Waiting for web element to load on the page
+[29/09/2018 16:48:58]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:48:58]  Clicking on : 'Logout' Button
+[29/09/2018 16:48:58]  Waiting for web element to load on the page
+[29/09/2018 16:48:58]  Waiting ends ... Web element loaded on the page
+[29/09/2018 16:49:02]  Clicked on : 'Logout' Button
+[29/09/2018 16:49:02]  Clicked on the element : ''Logout' Button and new page loaded with title : Jujit Saikia (@jujitsaikia) on Wallet Hub
+[29/09/2018 16:49:04]  ***Result of execution -- Pass : Successfully reviewed WalletHub
+[29/09/2018 16:49:04]  Closing the driver ...
+[29/09/2018 16:49:06]  Killing ChromeDriver process
+[29/09/2018 16:49:06]  Error came while closing driver : Cannot run program "pskill": CreateProcess error=2, The system cannot find the file specified
+[29/09/2018 16:49:06]  ***********************************verifyReviewWalletHub --- Pass
